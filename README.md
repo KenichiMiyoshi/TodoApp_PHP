@@ -6,14 +6,14 @@
 Manage tasks
 
 1. Database operation
-  1. Get and display tasks 
-  1. Add tasks
-  1. Delete tasks
+    1. Get and display tasks 
+    1. Add tasks
+    1. Delete tasks
 
 2. Event processing
-  2. Click by state change tasks 
-  2. Click by delete tasks confirmation alert
-  2. Submit by add tasks is null,space,newline confirmation alert
+    1. Click by state change tasks 
+    1. Click by delete tasks confirmation alert
+    1. Submit by add tasks is null,space,newline confirmation alert
 
 ## Demo
 
